@@ -1,0 +1,131 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.867; Version 2009; 64bit' Language: 'tr' Physical Memory: 8127 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/kaos/Documents/MLProjects/DeepReinforcementLearning
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58878
+Successfully changed project path to: C:/Users/kaos/Documents/MLProjects/DeepReinforcementLearning
+C:/Users/kaos/Documents/MLProjects/DeepReinforcementLearning
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 48.26 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/kaos/Documents/MLProjects/DeepReinforcementLearning/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0xf02)
+    Vendor:   
+    VRAM:     4041 MB
+    Driver:   23.21.13.8819
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001731 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.488 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003145 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.687 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2135 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.5 MB.
+System memory in use after: 97.5 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2567.
+Total: 2.714900 ms (FindLiveObjects: 0.559500 ms CreateObjectMapping: 0.194900 ms MarkObjects: 1.818700 ms  DeleteObjects: 0.140100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/CarAI.cs
+  artifactKey: Guid(a055146b77ffccd4180a5b252e773f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CarAI.cs using Guid(a055146b77ffccd4180a5b252e773f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dfba224c04dc1474b4e78cc3e821fa7') in 0.024233 seconds
+  Import took 0.029228 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.411202 seconds.
+  path: Assets/FBX
+  artifactKey: Guid(20b8cdbced3bae64ab1ef6dd8b1d9f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX using Guid(20b8cdbced3bae64ab1ef6dd8b1d9f2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '730e1e7c2f3cf8d64b7d07c27155cfb8') in 0.008367 seconds
+  Import took 0.012688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.278009 seconds.
+  path: Assets/FBX/Taxi.fbx
+  artifactKey: Guid(b2377d00112f5504d8cb4bb76f06d0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Taxi.fbx using Guid(b2377d00112f5504d8cb4bb76f06d0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad5bf852cc429c2b298c98358a48042f') in 0.225627 seconds
+  Import took 0.232805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003814 seconds.
+  path: Assets/FBX/Taxi.fbx
+  artifactKey: Guid(b2377d00112f5504d8cb4bb76f06d0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FBX/Taxi.fbx using Guid(b2377d00112f5504d8cb4bb76f06d0e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad5bf852cc429c2b298c98358a48042f') in 0.079095 seconds
+  Import took 0.083500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.875938 seconds.
+  path: Assets/Materials/AsfaltMaterial.mat
+  artifactKey: Guid(2d64771d2d03258448c644c3ebf68170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/AsfaltMaterial.mat using Guid(2d64771d2d03258448c644c3ebf68170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03ff6bc5d98d9dcd4367d3989b2acf4') in 0.042872 seconds
+  Import took 0.048130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Materials/StoneMaterial.mat
+  artifactKey: Guid(517d7b90cbd72ac4080271975b824a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/StoneMaterial.mat using Guid(517d7b90cbd72ac4080271975b824a97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd938131733ef94260c52ccc39caae20c') in 0.023707 seconds
+  Import took 0.027904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Materials/PlaneMaterial.mat
+  artifactKey: Guid(3316618a07688e74884eb47d893e5d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/PlaneMaterial.mat using Guid(3316618a07688e74884eb47d893e5d32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ade02f41df87b433f6ccb7d5436e128') in 0.028188 seconds
+  Import took 0.033246 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
